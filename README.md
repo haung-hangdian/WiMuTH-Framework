@@ -8,7 +8,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=haung-hangdian&show_icons=true&theme=transparent)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/hauang-hangdian/count.svg) visitor,Thank You!:kissing_heart:
+You are my ![Visitor Count](https://profile-counter.glitch.me/hauang-hangdian/count.svg) visitor,Thank You!&#x1F618
 
 ### My Skill Set
 
