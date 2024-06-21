@@ -6,9 +6,9 @@
 - 💬 Ask me about anything related to Java/Python.
 - 📫 How to reach me: XXXX@qq.com
 
-![](https://github-readme-stats.vercel.app/api?username=wisdom-zhe&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=hauang-hangdian&show_icons=true&theme=transparent)
 
-You are my ![Visitor Count](https://profile-counter.glitch.me/wisdom-zhe/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
+You are my ![Visitor Count](https://profile-counter.glitch.me/hauang-hangdian/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
 ### My Skill Set
 
