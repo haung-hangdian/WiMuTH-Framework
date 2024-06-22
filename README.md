@@ -72,11 +72,6 @@ The table shows that the proposed WiMuTH Framework has achieved SOTA in segmenta
 
 ### Ablation study
 
-
-
-
-
-
 #### Key components of WiMuTH
 
 ![](https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/tables/Ablation_table.png)
