@@ -48,23 +48,33 @@ We provide GitHub links pointing to the PyTorch implementation code for all netw
 [PSPNet](https://github.com/hszhao/PSPNet); [OCNet](https://github.com/openseg-group/OCNet.pytorch); [TransUNet](https://github.com/Beckschen/TransUNet); [Attention UNet](https://github.com/pecheb/Att-Net); [UNet](https://github.com/milesial/Pytorch-UNet); [FCN-8s](https://github.com/pierluigiferrari/fcn8s_tensorflow); [ENet](https://github.com/TimoSaemann/ENet); [LEDNet](https://github.com/xiaoyufenfei/LEDNet); [GCN](https://github.com/SConsul/Global_Convolutional_Network); [DeepLab](https://github.com/fregu856/deeplabv3); [BiseNet](https://github.com/CoinCheung/BiSeNet) 
 ### Compare with others on the NIRS-IVUS dataset
 
-![](https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/tables/Baselines.png)
+<p align="center">
+  <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/tables/Baselines.png" width="600" height="400">
+</p>
 
 <p align="center">Fig 3. Comparison experiments between our method and 11 previous segmentation methods on the NIRS-IVUS dataset.</p>
 
-![](https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Calcification.png)
+<p align="center">
+  <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Calcification.png" width="300" height="600">
+</p>
 
 <p align="center">Fig 4. Our method was compared with 11 existing methods to visualize the calcification segmentation in the NIRS-IVUS dataset.</p>
 
-![](https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Side_branch.png)
+<p align="center">
+  <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Side_branch.png" width="300" height="600">
+</p>
 
 <p align="center">Fig 4. Our method was compared with 11 existing methods to visualize the segmentation of side branches in the NIRS-IVUS dataset.</p>
 
-![](https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Dilated_vesse.png)
+<p align="center">
+  <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Dilated_vesse.png" width="300" height="600">
+</p>
 
 <p align="center">Fig 4. Our method was compared with 11 existing methods to visualize the segmentation of dilated vessels in the NIRS-IVUS dataset.</p>
 
-![](https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Constricted_vessel.png)
+<p align="center">
+  <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Constricted_vessel.png" width="300" height="600">
+</p>
 
 <p align="center">Fig 4. Our method was compared with 11 existing methods to visualize the segmentation of constricted vessels in the NIRS-IVUS dataset.</p>
 
@@ -74,17 +84,25 @@ The table shows that the proposed WiMuTH Framework has achieved SOTA in segmenta
 
 #### Key components of WiMuTH
 
-![](https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/tables/Ablation_table.png)
+<p align="center">
+  <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/tables/Ablation_table.png" width="500" height="200">
+</p>
 
 <p align="center">Fig 4. Ablation experiments on key components of WiMuTH Framework on the NIRS-IVUS dataset.</p>
 
 #### Extension of the number of MaHS
-![](https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/tables/Extension_of_the_number_of_MaHS_table.png)
+
+<p align="center">
+  <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/tables/Extension_of_the_number_of_MaHS_table.png" width="400" height="120">
+</p>
 
 <p align="center">Fig 4. Ablation experiments on key components of WiMuTH Framework on the NIRS-IVUS dataset.</p>
 
 #### Hyperparameter of WCSR's order
-![](https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/tables/Hyperparameter_of_WCSR's_order_table.png)
+
+<p align="center">
+  <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/tables/Hyperparameter_of_WCSR's_order_table.png" width="400" height="120">
+</p>
 
 <p align="center">Fig 4. Ablation experiments on key components of WiMuTH Framework on the NIRS-IVUS dataset.</p>
 
