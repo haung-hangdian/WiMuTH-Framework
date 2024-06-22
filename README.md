@@ -55,25 +55,25 @@ We provide GitHub links pointing to the PyTorch implementation code for all netw
 <p align="center">Fig 3. Comparison experiments between our method and 11 previous segmentation methods on the NIRS-IVUS dataset.</p>
 
 <p align="center">
-  <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Calcification.png" width="300" height="600">
+  <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Calcification.png" width="300" height="500">
 </p>
 
 <p align="center">Fig 4. Our method was compared with 11 existing methods to visualize the calcification segmentation in the NIRS-IVUS dataset.</p>
 
 <p align="center">
-  <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Side_branch.png" width="300" height="600">
+  <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Side_branch.png" width="300" height="500">
 </p>
 
 <p align="center">Fig 4. Our method was compared with 11 existing methods to visualize the segmentation of side branches in the NIRS-IVUS dataset.</p>
 
 <p align="center">
-  <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Dilated_vesse.png" width="300" height="600">
+  <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Dilated_vesse.png" width="300" height="500">
 </p>
 
 <p align="center">Fig 4. Our method was compared with 11 existing methods to visualize the segmentation of dilated vessels in the NIRS-IVUS dataset.</p>
 
 <p align="center">
-  <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Constricted_vessel.png" width="300" height="600">
+  <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Constricted_vessel.png" width="300" height="500">
 </p>
 
 <p align="center">Fig 4. Our method was compared with 11 existing methods to visualize the segmentation of constricted vessels in the NIRS-IVUS dataset.</p>
