@@ -66,9 +66,12 @@ We provide GitHub links pointing to the PyTorch implementation code for all netw
 
 ![](https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Constricted_vessel.png)
 
-<p align="center">Fig 4. Our method was compared with 11 existing methods to visualize the segmentation of constrivted vessels in the NIRS-IVUS dataset.</p>
+<p align="center">Fig 4. Our method was compared with 11 existing methods to visualize the segmentation of constricted vessels in the NIRS-IVUS dataset.</p>
+
+The table shows that the proposed WiMuTH Framwork has achieved SOTA in segmentation precision for Lumen and EEM across all evaluation metrics. The WiMuTH Framework's high efficiency is attributable to its intricate structure that amalgamates self-attention, spatial attention, and channel attention mechanisms. The self-attention mechanism, by capturing long-range dependencies within images, affords the network an extended field of view, thereby facilitating the comprehension of regions with incomplete visual information and enhancing feature extraction. Concurrently, the application of spatial and channel attention bolsters the network’s capability to process global and local information, ensuring the integrity of spatial details, which is vital for accurately identifying and delineating complex boundaries within images. Furthermore, the WiMuTH Framework incorporates time-frequency domain feature processing techniques, utilizing wavelet transformations to enhance the sharpness of image edges, proving particularly effective in detecting blurred vascular edges and capturing surrounding morphological details.
 
 ### Ablation study
+
 #### Key components of WiMuTH
 #### Extension of the number of MaHS
 #### Hyperparameter of WCSR's order
