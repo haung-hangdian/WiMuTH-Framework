@@ -11,7 +11,7 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/hauang-hangdian/co
 The WiMuTH Framework is a framework for Lumen and EEM boundary segmentation for IVUS images with contrast, artifacts, and fuzzy regions. It features four innovative modules: WCSR, MaHS, IDC, and DFCH bridge. WiMuTH Framework achieves state-of-the-art performance over 13 previous methods on the NIRS-IVUS datasets.
 
 
-The methodology and underlying principles will be explained first. Then, the experimental environment and the GitHub repositories of the comparative methods will be delineated. Finally, the experimental outcomes will be presented.
+First, the methodology and underlying principles will be explained. Then, the comparative methods' experimental environment and the GitHub repositories will be delineated. Finally, the experimental outcomes will be presented.
 
 ## Method
 ### WCSR Module
@@ -47,6 +47,26 @@ We provide GitHub links pointing to the PyTorch implementation code for all netw
 
 [PSPNet](https://github.com/hszhao/PSPNet); [OCNet](https://github.com/openseg-group/OCNet.pytorch); [TransUNet](https://github.com/Beckschen/TransUNet); [Attention UNet](https://github.com/pecheb/Att-Net); [UNet](https://github.com/milesial/Pytorch-UNet); [FCN-8s](https://github.com/pierluigiferrari/fcn8s_tensorflow); [ENet](https://github.com/TimoSaemann/ENet); [LEDNet](https://github.com/xiaoyufenfei/LEDNet); [GCN](https://github.com/SConsul/Global_Convolutional_Network); [DeepLab](https://github.com/fregu856/deeplabv3); [BiseNet](https://github.com/CoinCheung/BiSeNet) 
 ### Compare with others on the NIRS-IVUS dataset
+
+![](https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/tables/Baselines.png)
+
+<p align="center">Fig 3. Comparison experiments between our method and 11 previous segmentation methods on the NIRS-IVUS dataset.</p>
+
+![](https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Calcification.png)
+
+<p align="center">Fig 4. Our method was compared with 11 existing methods to visualize the calcification segmentation in the NIRS-IVUS dataset.</p>
+
+![](https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Side_branch.png)
+
+<p align="center">Fig 4. Our method was compared with 11 existing methods to visualize the segmentation of side branches in the NIRS-IVUS dataset.</p>
+
+![](https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Dilated_vesse.png)
+
+<p align="center">Fig 4. Our method was compared with 11 existing methods to visualize the segmentation of dilated vessels in the NIRS-IVUS dataset.</p>
+
+![](https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Constricted_vessel.png)
+
+<p align="center">Fig 4. Our method was compared with 11 existing methods to visualize the segmentation of constrivted vessels in the NIRS-IVUS dataset.</p>
 
 ### Ablation study
 #### Key components of WiMuTH
