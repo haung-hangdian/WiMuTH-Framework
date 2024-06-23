@@ -64,19 +64,19 @@ We provide GitHub links pointing to the PyTorch implementation code for all netw
   <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Side_branch.png" width="300" height="500">
 </p>
 
-<p align="center">Fig 4. Our method was compared with 11 existing methods to visualize the segmentation of side branches in the NIRS-IVUS dataset.</p>
+<p align="center">Fig 5. Our method was compared with 11 existing methods to visualize the segmentation of side branches in the NIRS-IVUS dataset.</p>
 
 <p align="center">
   <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Dilated_vesse.png" width="300" height="500">
 </p>
 
-<p align="center">Fig 4. Our method was compared with 11 existing methods to visualize the segmentation of dilated vessels in the NIRS-IVUS dataset.</p>
+<p align="center">Fig 6. Our method was compared with 11 existing methods to visualize the segmentation of dilated vessels in the NIRS-IVUS dataset.</p>
 
 <p align="center">
   <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/figures/Constricted_vessel.png" width="300" height="500">
 </p>
 
-<p align="center">Fig 4. Our method was compared with 11 existing methods to visualize the segmentation of constricted vessels in the NIRS-IVUS dataset.</p>
+<p align="center">Fig 7. Our method was compared with 11 existing methods to visualize the segmentation of constricted vessels in the NIRS-IVUS dataset.</p>
 
 The table shows that the proposed WiMuTH Framework has achieved SOTA in segmentation precision for Lumen and EEM across all evaluation metrics. The WiMuTH Framework's high efficiency is attributable to its intricate structure that amalgamates self-attention, spatial attention, and channel attention mechanisms. By capturing long-range dependencies within images, the self-attention mechanism affords the network an extended field of view, thereby facilitating the comprehension of regions with incomplete visual information and enhancing feature extraction. Concurrently, applying spatial and channel attention bolsters the network’s capability to process global and local information, ensuring the integrity of spatial details, which is vital for accurately identifying and delineating complex boundaries within images. Furthermore, the WiMuTH Framework incorporates time-frequency domain feature processing techniques, utilizing wavelet transformations to enhance the sharpness of image edges, proving particularly effective in detecting blurred vascular edges and capturing surrounding morphological details.
 
@@ -88,7 +88,7 @@ The table shows that the proposed WiMuTH Framework has achieved SOTA in segmenta
   <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/tables/Ablation_table.png" width="500" height="200">
 </p>
 
-<p align="center">Fig 4. Ablation experiments on key components of WiMuTH Framework on the NIRS-IVUS dataset.</p>
+<p align="center">Fig 8. Ablation experiments on key components of WiMuTH Framework on the NIRS-IVUS dataset.</p>
 
 #### Extension of the number of MaHS
 
@@ -96,7 +96,7 @@ The table shows that the proposed WiMuTH Framework has achieved SOTA in segmenta
   <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/tables/Extension_of_the_number_of_MaHS_table.png" width="400" height="120">
 </p>
 
-<p align="center">Fig 4. Ablation experiments on key components of WiMuTH Framework on the NIRS-IVUS dataset.</p>
+<p align="center">Fig 9. Ablation experiments on extension of the number of MaHS on the NIRS-IVUS dataset.</p>
 
 #### Hyperparameter of WCSR's order
 
@@ -104,5 +104,5 @@ The table shows that the proposed WiMuTH Framework has achieved SOTA in segmenta
   <img src="https://github.com/haung-hangdian/WiMuTH-Framework/blob/main/tables/Hyperparameter_of_WCSR's_order_table.png" width="400" height="120">
 </p>
 
-<p align="center">Fig 4. Ablation experiments on key components of WiMuTH Framework on the NIRS-IVUS dataset.</p>
+<p align="center">Fig 10. Ablation experiments on hyperparameter of WCSR's order on the NIRS-IVUS dataset.</p>
 
